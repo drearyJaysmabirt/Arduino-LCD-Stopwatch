@@ -2,6 +2,9 @@
 
 [![Stopwatch Demo](Assets/stopwatchshowcase.png)](Assets/stopwatch.mp4)
 
+## 🎥 Video
+https://github.com/drearyJaysmabirt/Arduino-LCD-Stopwatch/blob/main/Assets/stopwatch.mp4
+
 ## 📋 Features
 - Tracks time up to days with millisecond precision
 - Displays on 16x2 LCD
