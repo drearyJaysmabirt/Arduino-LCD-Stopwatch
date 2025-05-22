@@ -37,7 +37,7 @@ void setup() {
   // ... (rest of your code)
 }
 ```
-[View Full Code](Arduino/lcd_stopwatch.ino)
+[View Full Code](Arduino/ArduinoUno_functionalstopwatchuptodays.ino)
 
 ## 🔌 How to Use
 1. Upload the sketch
