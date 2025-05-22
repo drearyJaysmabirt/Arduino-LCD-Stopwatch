@@ -6,7 +6,10 @@
 - Tracks time up to days with millisecond precision
 - Displays on 16x2 LCD
 - Simple 4-bit mode wiring
-- 
+
+## 🎥 Demo Video
+https://github.com/your-username/Arduino-LCD-Stopwatch/blob/main/Assets/stopwatch.mp4
+
 ## 📚 Libraries Needed
 Install via Arduino IDE:
 1. Sketch → Include Library → Manage Libraries
