@@ -8,7 +8,7 @@
 - Simple 4-bit mode wiring
 
 ## 🎥 Demo Video
-https://github.com/your-username/Arduino-LCD-Stopwatch/blob/main/Assets/stopwatch.mp4
+[![Stopwatch Demo](Assets/stopwatch_thumbnail.png)](Assets/stopwatch.mp4)
 
 ## 📚 Libraries Needed
 Install via Arduino IDE:
