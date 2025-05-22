@@ -6,6 +6,12 @@
 - Tracks time up to days with millisecond precision
 - Displays on 16x2 LCD
 - Simple 4-bit mode wiring
+- 
+## 📚 Libraries Needed
+Install via Arduino IDE:
+1. Sketch → Include Library → Manage Libraries
+2. Search for "LiquidCrystal"
+3. Install the official Arduino library
 
 ## 🛠 Hardware Setup
 
