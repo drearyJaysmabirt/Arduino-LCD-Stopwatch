@@ -1,14 +1,11 @@
 # ⏱ Arduino LCD Stopwatch Project
 
-![Demo](Assets/stopwatchshowcase.png)
+[![Stopwatch Demo](Assets/stopwatchshowcase.png)](Assets/stopwatch.mp4)
 
 ## 📋 Features
 - Tracks time up to days with millisecond precision
 - Displays on 16x2 LCD
 - Simple 4-bit mode wiring
-
-## 🎥 Demo Video
-[![Stopwatch Demo](Assets/stopwatch_thumbnail.png)](Assets/stopwatch.mp4)
 
 ## 📚 Libraries Needed
 Install via Arduino IDE:
