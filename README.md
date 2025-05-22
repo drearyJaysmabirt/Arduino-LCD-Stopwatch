@@ -1,2 +1,36 @@
-# Arduino-LCD-Stopwatch
-counts up to days in case you ever need to time for that long
+# ⏱ Arduino LCD Stopwatch Project
+
+![Demo](Assets/stopwatchshowcase.png)
+
+## 📋 Features
+- Tracks time up to days with millisecond precision
+- Displays on 16x2 LCD
+- Simple 4-bit mode wiring
+
+## 🛠 Hardware Setup
+
+| LCD Pin | Arduino Connection |
+|---------|--------------------|
+| VSS     | GND                |
+| VDD     | 5V                 |
+| RS      | Pin 12             |
+| RW      | GND                |
+| E       | Pin 11             |
+| DB4-DB7 | Pins 5,4,3,2       |
+
+## 💻 Code
+```arduino
+#include <LiquidCrystal.h>
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+void setup() {
+  lcd.begin(16, 2);
+  // ... (rest of your code)
+}
+```
+[View Full Code](Arduino/lcd_stopwatch.ino)
+
+## 🔌 How to Use
+1. Upload the sketch
+2. Time starts automatically
+3. Reset Arduino to restart timer
